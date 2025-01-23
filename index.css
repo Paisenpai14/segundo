@@ -1,0 +1,127 @@
+body {
+    background: black;
+}
+
+.pai {
+    background: rgba(128, 128, 128, 0.4);
+    color: white;
+    height: 550px;
+    width: 300px;
+    margin: 170px 0px 0px 800px;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+}
+
+.usuario {
+    font-size: 22px;
+    margin: 2px 0px 10px 95px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.imagem {
+    width: 100px;
+    height: 100px;
+    border: 3px black;
+    border-radius: 50px;
+    margin: 25px 0px 10px 95px;
+}
+
+.fonte {
+    color: rgb(123, 163, 59);
+    font-weight: 400;
+    font-style: normal;
+    margin: -40px 0px 0px 80px;
+}
+
+.letrinha {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin: -15px 0px 0px 43px;
+}
+
+.link1 {
+    background: rgba(128, 128, 128, 0.279);
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    margin: -20px 0px 0px 50px;
+    align-items: center;
+}
+
+.link2 {
+    background: rgba(128, 128, 128, 0.279);
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    margin: -10px 0px 0px 50px;
+    align-items: center;
+}
+
+.link3 {
+    background: rgba(128, 128, 128, 0.279);
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    margin: 0px 0px 0px 50px;
+    align-items: center;
+}
+
+.link4 {
+    background: rgba(128, 128, 128, 0.279);
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    margin: 10px 0px 0px 50px;
+    align-items: center;
+}
+
+.link5 {
+    background: rgba(128, 128, 128, 0.279);
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    margin: 20px 0px 0px 50px;
+    align-items: center;
+}
+
+.alinhando1 {
+    margin-left: 70px;
+}
+
+.alinhando2 {
+    margin-left: 45px;
+}
+
+.alinhando3 {
+    margin-left: 75px;
+}
+
+.alinhando4 {
+    margin-left: 80px;
+}
+
+.alinhando5 {
+    margin-left: 70px;
+}
